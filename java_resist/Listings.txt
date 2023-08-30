@@ -1,0 +1,10 @@
+RESZ1SMLBY01,Residential,Athena,Apartment,1B-1H-1K-1T,28 sq.m.,2,2,1980,87 000,Loan available,No,No,Vacant,Matt Jones,012-224-4565,matt.jones@homely.com
+RESZ2MEDBY02,Residential,Myllys,Apartment,2B-2H-1K-1T,54 sq.m.,1,5,1998,115 000,Loan available,Yes,Yes,Vacant,Lisa Simpson,012-345-4434,lisa.simpson@homely.com
+RESZ3LRGRN03,Residential,Gorai,Terraced house,3B-4H-3K-2T,110 sq.m.,3,6,2010,975/month,NA,Yes,Yes,Vacant,Bart Gareth,012-432-2312,bart.gareth@homely.com
+RESZ4VLGBY04,Residential,Habsterdol,Bungalow,7B-8H-3K-5T,480 sq.m.,1,1,2015,960 000,Loan available,Yes,No,Vacant,Homer Jane,012-254-4787,homer.jane@homely.com
+RESZ5MEDRN05,Residential,Zeus,Studio,2H-1K-1T,33 sq.m.,1,2,1999,680/month,NA,No,No,Soon to be vacant,Marge Marlow,012-333-3200,marge.marlow@homely.com
+COMZ1MEDBY06,Commercial,Parthos,Office,2H-1K-4T,55 sq.m.,1,1,1987,270 000,Loan available,No,No,Vacant,Toby Carr,012-897-3298,toby.carr@homely.com
+COMZ2SMLBY07,Commercial,Queseburg,Office,1H-1T,18 sq.m.,1,4,2021,90 000,Loan available,No,Yes,Soon to be vacant,Moe Joe,012-874-1189,moe.joe@homely.com 
+COMZ3LRGRN08,Commercial,Gorai,Business space,NULL,140 sq.m.,1,3,2022,1280/month,NA,Yes,Yes,Vacant,Ralph Wiggum,012-239-9007,ralph.wiggum@homely.com
+COMZ4VLGRN09,Commercial,Zeus,Business space,NULL,870 sq.m.,2,3,2011,3250/month,NA,Yes,Yes,Soon to be vacant,Barney Tone,012-222-4537,barney.tone@homely.com
+COMZ5SMLBY10,Commercial,Tromway,Busines space,NULL,28 sq.m.,2,2,2007,110 000,Loan available,Yes,No,Reserved,Ned Flanders,012-349-5745,ned.flanders@homely.com
